@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/modwanz/supportwanz/main/icon.png" width="100"><br>
+  <img src="[g](https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/modwanz.png)" width="100"><br>
   <b>Nama Aplikasi</b>
 </p>
