@@ -1,8 +1,4 @@
-<div align="center"> 
- <div class="app-card">
-    <!-- Ganti URL dengan icon dari GitHub -->
-    <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/icon.png" alt="App Icon">
-    
-    <div class="app-name">Nama Aplikasi</div>
-  </div>
-  </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/modwanz/supportwanz/main/icon.png" width="100"><br>
+  <b>Nama Aplikasi</b>
+</p>
