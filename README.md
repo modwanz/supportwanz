@@ -44,15 +44,10 @@
 ## 📥 Download
 
 <p align="center">
-  <a href="#">
+  <a href="https://modwanz.github.io/supportwanz/">
     <img src="https://img.shields.io/badge/⬇ Download APK-8A2BE2?style=for-the-badge&logo=android&logoColor=white">
   </a>
 </p>
-
----
-
-## 🌐 Live Demo
-👉 https://modwanz.github.io/supportwanz
 
 ---
 
