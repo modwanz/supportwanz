@@ -1,61 +1,69 @@
-<!-- ===================== BANNER ===================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/file_000000008720720bb8398b3355170173.png"/>
-</p>
+<div align="center">
 
-<h1 align="center">🌌 MODWANZ ECOSYSTEM 🌌</h1>
-<p align="center"><b>The Ultimate Android Modding Experience</b></p>
+# 🚀 MODWANZ MANAGER
+**The Ultimate Mod Apps & Games Destination**
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/modwanz/supportwanz?style=for-the-badge&color=purple"/>
-  <img src="https://img.shields.io/github/forks/modwanz/supportwanz?style=for-the-badge&color=cyan"/>
-  <img src="https://img.shields.io/github/issues/modwanz/supportwanz?style=for-the-badge&color=blue"/>
-  <img src="https://img.shields.io/github/license/modwanz/supportwanz?style=for-the-badge&color=white"/>
-</p>
+[![Version](https://img.shields.io/badge/Version-1.1-orange?style=for-the-badge&logo=android)](#)
+[![Status](https://img.shields.io/badge/Status-Premium-00c853?style=for-the-badge)](#)
+[![Ads](https://img.shields.io/badge/Ads-Disabled-red?style=for-the-badge)](#)
+
+<img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/file_000000008720720bb8398b3355170173.png" width="100%" style="border-radius: 10px;">
 
 ---
 
-<!-- ===================== CORE ===================== -->
+### ✨ Key Experience
+**Fast • Secure • Ad-Free**
+*Designed by Ridwan Zaelani*
 
-## 🚀 Modwanz Manager v1.1
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/rz_modwanz.png" width="110"/>
-</p>
+## 🛠 Main Features
 
-<p align="center">
-  <b>🔥 PREMIUM UNLOCKED • AMOLED • ZERO ADS 🔥</b><br>
-  <sub>Crafted by <b>Ridwan Zaelani</b></sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MANAGER-ff8c00?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PREMIUM-00ffcc?style=for-the-badge&logo=googleplay&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AMOLED-000000?style=for-the-badge"/>
-</p>
+| Feature | Description |
+| :--- | :--- |
+| ⚡ **Turbo Speed** | Optimized for fast downloads and lightweight performance. |
+| 🎨 **AMOLED UI** | True black interface for battery efficiency and aesthetics. |
+| 🛡️ **Safe & Secure** | Every APK is scanned and verified for your protection. |
+| 💎 **Premium Unlocked** | No advertisements, no interruptions, just pure experience. |
+| 📦 **Smart Manager** | One-tap install, update, and manage your modded library. |
 
 ---
 
-<!-- ===================== VISUAL BREAK ===================== -->
+## 📊 App Specifications
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
----
-
-## ✨ What is Modwanz?
-
-> **Modwanz Manager** adalah platform generasi baru untuk mengelola aplikasi MOD Android.  
-Menggabungkan **kecepatan, keamanan, dan desain futuristik neon** dalam satu aplikasi powerful.
+| Version | File Size | Rating | Developer |
+| :--- | :--- | :--- | :--- |
+| **v1.1** | 6.94 MB | ⭐ 4.8/5.0 | Modwanz Team |
 
 ---
 
-## ⚡ Core Features
+## 📥 Getting Started
 
-```diff
-+ 🚀 Lightning Fast Engine
-+ 🔓 Full Premium Unlock
-+ 🎨 AMOLED Neon Interface
-+ 📦 Smart APK Manager
-+ 🛡️ Secure & Optimized System
-+ 🚫 Completely Ad-Free
-+ 🔄 Future Ready Updates
+<div align="center">
+
+[attachment_0](attachment)
+
+### Download Latest Version
+Klik tombol di bawah untuk mengunduh versi terbaru secara langsung:
+
+[![Download APK](https://img.shields.io/badge/DOWNLOAD_NOW-8A2BE2?style=for-the-badge&logo=android&logoColor=white)](https://modwanz.github.io/supportwanz)
+
+**[🌐 Kunjungi Website Resmi](https://modwanz.github.io/supportwanz)**
+
+</div>
+
+---
+
+## ⚠️ Disclaimer
+This project is intended for **educational purposes only**. We do not host malicious files. All trademarks and copyrights belong to their respective owners. Use at your own risk.
+
+---
+
+<div align="center">
+
+### 🤝 Connect With Us
+Made with 💜 by **Modwanz Team**
+
+![Footer](https://img.shields.io/badge/Community-Join_Us-blueviolet?style=social&logo=telegram)
+
+</div>
