@@ -1,4 +1,4 @@
-<h1 align="center">🌈 MODWANZ</h1>
+<h1 align="center">MODWANZ MANAGER</h1>
 <p align="center"><b>Best Mod Apps & Games Platform</b></p>
 
 <p align="center">
