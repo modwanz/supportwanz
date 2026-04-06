@@ -48,7 +48,7 @@ Klik tombol di bawah untuk mengunduh versi terbaru secara langsung:
 
 [![Download APK](https://img.shields.io/badge/DOWNLOAD_NOW-8A2BE2?style=for-the-badge&logo=android&logoColor=white)](https://modwanz.github.io/supportwanz)
 
-**[🌐 Kunjungi Website Resmi](https://modwanz.blogspot.com)**
+**[🌐 Kunjungi Website Resmi](https://modwanzmanager.blogspot.com)**
 
 </div>
 
