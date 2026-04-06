@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Modwanz UI</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background: radial-gradient(circle at top, #1a1a3a, #0b0b1f);
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .card {
+      width: 350px;
+      background: #12122b;
+      border-radius: 20px;
+      padding: 20px;
+      box-shadow: 0 0 30px rgba(0,255,255,0.2);
+    }
+
+    .title {
+      text-align: center;
+      font-size: 28px;
+      font-weight: 700;
+      background: linear-gradient(90deg, #ff00cc, #00e5ff);
+      -webkit-background-clip: text;
+      color: transparent;
+      margin-bottom: 10px;
+    }
+
+    .app {
+      display: flex;
+      align-items: center;
+      gap: 15px;
+      margin: 15px 0;
+    }
+
+    .icon {
+      width: 60px;
+      height: 60px;
+      background: #000;
+      border-radius: 12px;
+    }
+
+    .app-info h3 {
+      margin: 0;
+      font-size: 16px;
+    }
+
+    .tags {
+      font-size: 12px;
+      color: #aaa;
+    }
+
+    .buttons {
+      margin: 10px 0;
+    }
+
+    .btn {
+      padding: 6px 12px;
+      border-radius: 20px;
+      border: none;
+      margin-right: 5px;
+      font-size: 12px;
+      cursor: pointer;
+    }
+
+    .manager {
+      background: orange;
+      color: white;
+    }
+
+    .premium {
+      background: #00c853;
+      color: white;
+    }
+
+    .desc {
+      font-size: 13px;
+      color: #ccc;
+      margin: 10px 0;
+    }
+
+    .stats {
+      display: flex;
+      justify-content: space-between;
+      font-size: 13px;
+      margin: 15px 0;
+    }
+
+    .download {
+      width: 100%;
+      padding: 15px;
+      border-radius: 30px;
+      border: none;
+      font-size: 16px;
+      font-weight: bold;
+      background: linear-gradient(90deg, #a100ff, #00e5ff);
+      color: white;
+      cursor: pointer;
+      box-shadow: 0 0 15px rgba(0,255,255,0.5);
+    }
+
+    .download:hover {
+      opacity: 0.9;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="card">
+    <div class="title">MODWANZ</div>
+
+    <div class="app">
+      <div class="icon"></div>
+      <div class="app-info">
+        <h3>Modwanz Manager v1.1</h3>
+        <div class="tags">Unlocked • Amoled • No Ads</div>
+      </div>
+    </div>
+
+    <div class="buttons">
+      <button class="btn manager">MANAGER</button>
+      <button class="btn premium">PREMIUM</button>
+    </div>
+
+    <div class="desc">
+      Manage Android mods and apps quickly, safely, and efficiently.
+    </div>
+
+    <div class="stats">
+      <div>1.1 Version</div>
+      <div>6.9MB</div>
+      <div>⭐ 3.8</div>
+    </div>
+
+    <button class="download">Download APK</button>
+  </div>
+
+</body>
+</html>
