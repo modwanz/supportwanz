@@ -1,62 +1,61 @@
-<h1 align="center">MODWANZ MANAGER</h1>
-<p align="center"><b>Best Mod Apps & Games Platform</b></p>
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/file_000000008720720bb8398b3355170173.png"/>
+</p>
+
+<h1 align="center">🌌 MODWANZ ECOSYSTEM 🌌</h1>
+<p align="center"><b>The Ultimate Android Modding Experience</b></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/file_000000008720720bb8398b3355170173.png" width="100%">
+  <img src="https://img.shields.io/github/stars/modwanz/supportwanz?style=for-the-badge&color=purple"/>
+  <img src="https://img.shields.io/github/forks/modwanz/supportwanz?style=for-the-badge&color=cyan"/>
+  <img src="https://img.shields.io/github/issues/modwanz/supportwanz?style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/license/modwanz/supportwanz?style=for-the-badge&color=white"/>
 </p>
 
 ---
+
+<!-- ===================== CORE ===================== -->
 
 ## 🚀 Modwanz Manager v1.1
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/rz_modwanz.png" width="90">
+  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/rz_modwanz.png" width="110"/>
 </p>
 
 <p align="center">
-  <b>Unlocked • Amoled • No Ads</b><br>
-  <i>by Ridwan Zaelani</i>
+  <b>🔥 PREMIUM UNLOCKED • AMOLED • ZERO ADS 🔥</b><br>
+  <sub>Crafted by <b>Ridwan Zaelani</b></sub>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MANAGER-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/PREMIUM-00c853?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MANAGER-ff8c00?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PREMIUM-00ffcc?style=for-the-badge&logo=googleplay&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AMOLED-000000?style=for-the-badge"/>
 </p>
 
 ---
 
-## ✨ Features
-- ⚡ Fast & lightweight mod manager
-- 🔐 Safe and optimized apps
-- 🎨 AMOLED UI experience
-- 🚫 No Ads (Premium unlocked)
-- 📦 Easy install & manage APK
+<!-- ===================== VISUAL BREAK ===================== -->
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ---
 
-## 📊 Info
-| Version | Size | Rating |
-|--------|------|--------|
-| 1.1 | 6.94 MB | ⭐ 3.8 |
+## ✨ What is Modwanz?
+
+> **Modwanz Manager** adalah platform generasi baru untuk mengelola aplikasi MOD Android.  
+Menggabungkan **kecepatan, keamanan, dan desain futuristik neon** dalam satu aplikasi powerful.
 
 ---
 
-## 📥 Download
+## ⚡ Core Features
 
-<p align="center">
-  <a href="https://modwanz.github.io/supportwanz/">
-    <img src="https://img.shields.io/badge/⬇ Download APK-8A2BE2?style=for-the-badge&logo=android&logoColor=white">
-  </a>
-</p>
-
----
-
-## ⚠️ Disclaimer
-This project is for educational purposes only.  
-All rights belong to their respective owners.
-
----
-
-<p align="center">
-  💜 Made with passion by <b>Modwanz Team</b>
-</p>
+```diff
++ 🚀 Lightning Fast Engine
++ 🔓 Full Premium Unlock
++ 🎨 AMOLED Neon Interface
++ 📦 Smart APK Manager
++ 🛡️ Secure & Optimized System
++ 🚫 Completely Ad-Free
++ 🔄 Future Ready Updates
