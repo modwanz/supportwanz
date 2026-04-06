@@ -1,147 +1,235 @@
-<!DOCTYPE html>
-<html lang="en">
+<?xml version="1.0" encoding="UTF-8" ?>
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
 <head>
-  <meta charset="UTF-8">
-  <title>Modwanz UI</title>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Poppins', sans-serif;
-      background: radial-gradient(circle at top, #1a1a3a, #0b0b1f);
-      color: white;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
+  <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0' name='viewport'/>
+  <meta content='Ridwan Zaelani' name='author'/>
+  <meta content='Modwanz Manager - Template Blogger oleh Ridwan Zaelani' name='description'/>
+  <meta content='blogger, template, modwanz, ridwanzaelani' name='keywords'/>
+  <title><data:blog.pageTitle/></title>
 
-    .card {
-      width: 350px;
-      background: #12122b;
-      border-radius: 20px;
-      padding: 20px;
-      box-shadow: 0 0 30px rgba(0,255,255,0.2);
-    }
+  <b:skin><![CDATA[
 
-    .title {
-      text-align: center;
-      font-size: 28px;
-      font-weight: 700;
-      background: linear-gradient(90deg, #ff00cc, #00e5ff);
-      -webkit-background-clip: text;
-      color: transparent;
-      margin-bottom: 10px;
-    }
+/* ========================================================
+   Template: Modwanz Manager
+   Author: Ridwan Zaelani
+   Website: www.amodwanzmanager.blogspot.com
+   License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+   Gunakan dan bagikan dengan mencantumkan atribusi.
+========================================================= */
 
-    .app {
-      display: flex;
-      align-items: center;
-      gap: 15px;
-      margin: 15px 0;
-    }
+:root {
+  scroll-behavior: smooth;
+}
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:'Poppins',sans-serif;
+}
 
-    .icon {
-      width: 60px;
-      height: 60px;
-      background: #000;
-      border-radius: 12px;
-    }
+body{
+  background:#0a0a0a;
+  color:#fff;
+}
 
-    .app-info h3 {
-      margin: 0;
-      font-size: 16px;
-    }
+/* HERO */
+.hero{
+  position:relative;
+  height:260px;
+  overflow:hidden;
+}
 
-    .tags {
-      font-size: 12px;
-      color: #aaa;
-    }
+.hero-bg{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+}
 
-    .buttons {
-      margin: 10px 0;
-    }
+/* overlay neon gradient */
+.overlay{
+  position:absolute;
+  inset:0;
+  background:linear-gradient(135deg, rgba(255,0,255,0.6), rgba(0,255,255,0.6));
+  mix-blend-mode:overlay;
+}
+/* GLASS CARD */
+.glass{
+  backdrop-filter:blur(20px);
+  background:rgba(255,255,255,0.05);
+  border-radius:20px;
+  padding:20px;
+  margin: -60px 15px 20px;
+  border:1px solid rgba(255,255,255,0.1);
+  box-shadow:0 0 30px rgba(0,255,255,0.2);
+}
 
-    .btn {
-      padding: 6px 12px;
-      border-radius: 20px;
-      border: none;
-      margin-right: 5px;
-      font-size: 12px;
-      cursor: pointer;
-    }
+/* TOP */
+.top{
+  display:flex;
+  gap:15px;
+  align-items:center;
+}
 
-    .manager {
-      background: orange;
-      color: white;
-    }
+.card {
+  padding: 20px;
+}
 
-    .premium {
-      background: #00c853;
-      color: white;
-    }
+.app-info {
+  display: flex;
+  gap: 15px;
+}
 
-    .desc {
-      font-size: 13px;
-      color: #ccc;
-      margin: 10px 0;
-    }
 
-    .stats {
-      display: flex;
-      justify-content: space-between;
-      font-size: 13px;
-      margin: 15px 0;
-    }
+.logo {
+  width: 68px;
+  height:68px;
+  background: #0f0f0f;
+  border-radius: 12px;
+  padding: 0px;
+  object-fit: cover;
+}
+h2{
+  font-size:18px;
+  font-weight:600;
+}
 
-    .download {
-      width: 100%;
-      padding: 15px;
-      border-radius: 30px;
-      border: none;
-      font-size: 16px;
-      font-weight: bold;
-      background: linear-gradient(90deg, #a100ff, #00e5ff);
-      color: white;
-      cursor: pointer;
-      box-shadow: 0 0 15px rgba(0,255,255,0.5);
-    }
+.sub{
+  font-size:13px;
+  color:#bbb;
+}
 
-    .download:hover {
-      opacity: 0.9;
-    }
-  </style>
-</head>
+.devmdn{
+  color:#00f2ff;
+  margin-top:6px;
+  font-size:14px;
+}
+
+.dev{
+  color:#aaa;
+  font-size:13px;
+}
+
+.badges{
+  margin-top:10px;
+}
+
+.badge{
+  padding:5px 12px;
+  border-radius:20px;
+  font-size:11px;
+  margin-right:6px;
+}
+
+.orange{background:#ff8c00;}
+.green{background:#2ecc71;}
+
+/* TEXT */
+.mod{
+  margin-top:20px;
+  color:#a64bf4;
+  font-style:italic;
+}
+
+/* DESC */
+.desc{
+  margin-top:15px;
+  color:#bbb;
+}
+
+/* STATS */
+.stats {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.stats h3 {
+  margin: 0;
+}
+
+.stats p {
+  font-size: 12px;
+  color: #aaa;
+}
+
+/* BUTTON */
+.btn{
+  width:100%;
+  padding:15px;
+  border:none;
+  border-radius:30px;
+  font-size:16px;
+  cursor:pointer;
+  color:#fff;
+  background:linear-gradient(135deg,#a64bf4,#00f2ff);
+  box-shadow:0 0 20px rgba(255,0,255,0.6);
+  transition:0.3s;
+}
+
+.btn:hover{
+  transform:scale(1.03);
+  box-shadow:0 0 30px rgba(0,255,255,0.8);
+}
+
+
+  ]]></b:skin>
+</head> 
 <body>
+  <b:section class='ridwan' id='ridwan'/>
 
-  <div class="card">
-    <div class="title">MODWANZ</div>
+<div class='hero'>
+  <img class='hero-bg' src='https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/file_000000008720720bb8398b3355170173.png'/>
+  <div class='overlay'/>
+    </div>
 
-    <div class="app">
-      <div class="icon"></div>
-      <div class="app-info">
-        <h3>Modwanz Manager v1.1</h3>
-        <div class="tags">Unlocked • Amoled • No Ads</div>
+<div class='container glass'>
+
+  <div class='card'>
+    <div class='app-info'>
+      <img class='logo' src='https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/rz_modwanz.png'/>
+        <div>
+          
+      <h2>Modwanz Manager<br/>v1.1 - modwanz MOD APK (Better Than Ever)</h2>
+       <p class='dev'>Unlocked &#8226; Amoled &#8226; No Ads</p>
+      <p class='devmdn'>Ridwan Zaelani</p>
+
+      <div class='badges'>
+        <span class='badge orange'>MANAGER</span>
+        <span class='badge green'>PREMIUM</span>
+      </div>
+    </div>
+  </div>
+
+  <p class='mod'>MOD: Premium Unlocked</p>
+
+  <p class='desc'>
+    Manage Android mods and apps quickly, safely, and efficiently&#8212;complete control in your hands.
+  </p>
+    
+  <div class='stats'>
+      <div>
+        <h3>1.1</h3>
+        <p>Version</p>
+      </div>
+      <div>
+        <h3>6,94M</h3>
+        <p>Size</p>
+      </div>
+      <div>
+        <h3>3.8 &#9733;</h3>
+        <p>110795 ratings</p>
       </div>
     </div>
 
-    <div class="buttons">
-      <button class="btn manager">MANAGER</button>
-      <button class="btn premium">PREMIUM</button>
-    </div>
+  <button class='btn' onclick='downloadAPK()'>
+    Download APK
+  </button>
 
-    <div class="desc">
-      Manage Android mods and apps quickly, safely, and efficiently.
-    </div>
-
-    <div class="stats">
-      <div>1.1 Version</div>
-      <div>6.9MB</div>
-      <div>⭐ 3.8</div>
-    </div>
-
-    <button class="download">Download APK</button>
+</div>
   </div>
+<script src='script.js'/>
+
 
 </body>
 </html>
